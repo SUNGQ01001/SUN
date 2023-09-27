@@ -422,9 +422,9 @@
         "type": 3,
        "api": "nivod_open.js",
         "ext": "888解忧愁"
-    }, 
- 	]
-  },
+    }
+   ]
+},
   "read": {
      "sites": [      
     {
